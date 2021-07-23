@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_YouTube", "SSIS_YouTube\SSIS_YouTube.dtproj", "{3701D225-824D-4D25-B951-4E384FAD08D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3701D225-824D-4D25-B951-4E384FAD08D2}.Development|Default.ActiveCfg = Development
+		{3701D225-824D-4D25-B951-4E384FAD08D2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3C6ECF-6E21-4753-8940-B27CE5D0E574}
+	EndGlobalSection
+EndGlobal

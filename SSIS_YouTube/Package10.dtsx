@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/13/2019 8:25:12 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="LAPTOP-TG14SPMU"
+  DTS:CreatorName="LAPTOP-TG14SPMU\SarojSatyarth"
+  DTS:DTSID="{B1ACA0AC-6AD2-43AE-BF5A-FFBCD16D165B}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3002.113"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package10"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{F74370AA-8BA2-4254-9D17-24FB306F5379}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
